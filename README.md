@@ -14,26 +14,43 @@ I enjoy turning complex problems into reliable, well-documented products with a 
 
 ---
 
-## What I Work On
+## About Me
 
-- Full-stack web applications with React, Node.js, FastAPI, and PostgreSQL
-- Asynchronous systems, web crawling, streaming ETL, and resilient APIs
-- Secure application design, including browser-side encryption and OAuth
-- AWS serverless architectures, event-driven workflows, and reliability tooling
-- Data structures, algorithms, and continuous software-engineering practice
+I’m a third-year B.Tech student and full-stack developer interested in building reliable software at the intersection of **web applications, backend systems, cloud architecture, and applied AI**.
 
-## Technologies
+My work ranges from responsive React products and real-time communication platforms to asynchronous Python systems, secure browser-side encryption, and event-driven AWS architectures. I care about understanding how systems behave in production—not only how to make them work, but how to make them **secure, observable, testable, and maintainable**.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-</p>
+I’m currently deepening my knowledge of distributed systems, cloud reliability engineering, backend performance, and production-quality testing while continuing to strengthen my data structures and algorithms foundation.
+
+## Skills
+
+### Languages
+
+`Python` · `JavaScript` · `TypeScript` · `Java` · `SQL`
+
+### Frontend Development
+
+`React` · `Next.js` · `Vite` · `Tailwind CSS` · `Framer Motion` · Responsive UI · Web Crypto API
+
+### Backend & APIs
+
+`FastAPI` · `Node.js` · `Express` · REST APIs · WebSockets · `Socket.IO` · Async programming · Authentication with OAuth
+
+### Databases & Data Systems
+
+`PostgreSQL` · `SQLite` · DynamoDB · Streaming ETL · Web crawling · Data pipelines · Semantic memory
+
+### Cloud & Reliability
+
+AWS Lambda · DynamoDB · CloudWatch · EventBridge · SNS · Event-driven architecture · Monitoring · Incident workflows · SRE metrics
+
+### AI & Agent Systems
+
+Local LLM inference · `llama.cpp` · Gemma · Multi-agent orchestration · YAML agent configuration · Tool permissions · Local embeddings with `sentence-transformers`
+
+### Engineering Practices
+
+Git · Linux · Secure application design · Browser-side encryption · Automated testing · Linting · Documentation · Performance-aware design
 
 ## Featured Projects
 
