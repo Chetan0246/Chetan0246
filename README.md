@@ -93,9 +93,9 @@ My personal portfolio website, built to present my projects, technical interests
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chetan0246/Chetan0246/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chetan0246/Chetan0246/output/github-contribution-grid-snake.svg" />
-    <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/Chetan0246/Chetan0246/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chetan0246/Chetan0246/gh-pages/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chetan0246/Chetan0246/gh-pages/github-contribution-grid-snake.svg" />
+    <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/Chetan0246/Chetan0246/gh-pages/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
