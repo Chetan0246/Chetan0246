@@ -1,141 +1,68 @@
-# Hi, I'm Moorthy Chetan
+# Hi, I’m Moorthy Chetan
 
-### Full-Stack Developer | Python & Cloud Systems | Security-Focused Applications
+**B.Tech student · Full-stack developer · Python, cloud systems & local AI**
 
-I’m a third-year B.Tech student who builds practical software across the stack—from responsive React applications and real-time APIs to asynchronous Python systems and AWS serverless architectures.
+I build useful software across the stack: responsive React apps, async Python services, AWS serverless systems, and local-first AI tools. I care about clear architecture, security, and making projects straightforward to run.
 
-I enjoy turning complex problems into reliable, well-documented products with a focus on **security, performance, developer experience, and observability**.
+**Open to SDE internships.**
 
-<p>
-  <a href="https://moorthy-chetan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/Chetan0246"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://x.com/Chetan_5118"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>
-</p>
+[Portfolio](https://moorthy-chetan-portfolio.vercel.app/) · [GitHub](https://github.com/Chetan0246) · [LinkedIn](https://www.linkedin.com/in/moorthy-chetan-38a176325/) · [X](https://x.com/Chetan_5118)
 
 ---
 
-## About Me
+## Selected work
 
-I’m a third-year B.Tech student and full-stack developer interested in building reliable software at the intersection of **web applications, backend systems, cloud architecture, and applied AI**.
+### [CloudPulse](https://github.com/Chetan0246/cloudpulse) · [v0.1.0](https://github.com/Chetan0246/cloudpulse/releases/tag/v0.1.0)
+Event-driven AWS reliability simulator: inject failures, detect alarms, route events, and run Lambda-based recovery with an SRE dashboard.
 
-My work ranges from responsive React products and real-time communication platforms to asynchronous Python systems, secure browser-side encryption, and event-driven AWS architectures. I care about understanding how systems behave in production—not only how to make them work, but how to make them **secure, observable, testable, and maintainable**.
+**Python · FastAPI · React · TypeScript · Lambda · DynamoDB · EventBridge · CloudWatch · SNS**
 
-I’m currently deepening my knowledge of distributed systems, cloud reliability engineering, backend performance, and production-quality testing while continuing to strengthen my data structures and algorithms foundation.
+[![CloudPulse CI](https://github.com/Chetan0246/cloudpulse/actions/workflows/ci.yml/badge.svg)](https://github.com/Chetan0246/cloudpulse/actions/workflows/ci.yml)
 
-## Skills
+### [LocalHarness](https://github.com/Chetan0246/localharness) · [v0.1.0](https://github.com/Chetan0246/localharness/releases/tag/v0.1.0)
+YAML-configured multi-agent assistant for local models, with SQLite memory, capability controls, and dynamic model routing. Evaluated on a 16 GB laptop with Radeon 780M graphics.
 
-### Languages
+![LocalHarness demo](https://raw.githubusercontent.com/Chetan0246/localharness/main/assets/demo.gif)
 
-`Python` · `JavaScript` · `TypeScript` · `Java` · `SQL`
-
-### Frontend Development
-
-`React` · `Next.js` · `Vite` · `Tailwind CSS` · `Framer Motion` · Responsive UI · Web Crypto API
-
-### Backend & APIs
-
-`FastAPI` · `Node.js` · `Express` · REST APIs · WebSockets · `Socket.IO` · Async programming · Authentication with OAuth
-
-### Databases & Data Systems
-
-`PostgreSQL` · `SQLite` · DynamoDB · Streaming ETL · Web crawling · Data pipelines · Semantic memory
-
-### Cloud & Reliability
-
-AWS Lambda · DynamoDB · CloudWatch · EventBridge · SNS · Event-driven architecture · Monitoring · Incident workflows · SRE metrics
-
-### AI & Agent Systems
-
-Local LLM inference · `llama.cpp` · Gemma · Multi-agent orchestration · YAML agent configuration · Tool permissions · Local embeddings with `sentence-transformers`
-
-### Engineering Practices
-
-Git · Linux · Secure application design · Browser-side encryption · Automated testing · Linting · Documentation · Performance-aware design
-
-## Featured Projects
-
-### [CloudPulse](https://github.com/Chetan0246/cloudpulse)
-
-An event-driven cloud reliability and self-healing simulator built with AWS serverless services. It demonstrates failure injection, CloudWatch detection, EventBridge routing, Lambda-based remediation, DynamoDB persistence, SNS notifications, and an SRE dashboard.
-
-**React · TypeScript · Python · FastAPI · AWS Lambda · DynamoDB · CloudWatch · EventBridge · SNS**
-
-[![CloudPulse stars](https://img.shields.io/github/stars/Chetan0246/cloudpulse?style=flat&label=stars)](https://github.com/Chetan0246/cloudpulse)
-[![CloudPulse last commit](https://img.shields.io/github/last-commit/Chetan0246/cloudpulse?style=flat&label=updated)](https://github.com/Chetan0246/cloudpulse/commits/main)
+**Python · SQLite · llama.cpp · Ollama · Gemma**
 
 ### [Nexus](https://github.com/Chetan0246/nexus)
+Python data platform combining polite web crawling, resumable streaming ETL, a FastAPI REST/WebSocket service, CLI, and live terminal dashboard.
 
-A high-performance data-intelligence platform that combines polite web crawling, resumable streaming ETL, a FastAPI REST/WebSocket service, a unified CLI, and a real-time Textual operations dashboard.
+**Python · asyncio · FastAPI · WebSockets · SQLite · PostgreSQL · Textual**
 
-**Python · asyncio · FastAPI · WebSockets · SQLite/PostgreSQL · Textual · Typer**
+### [PrivChat](https://github.com/Chetan0246/PrivChat) · [Live demo](https://real-time-chat-app-six-omega.vercel.app/)
+Real-time chat prototype where message encryption and key handling happen in the browser; includes Google OAuth and Socket.IO messaging.
 
-[![Nexus stars](https://img.shields.io/github/stars/Chetan0246/nexus?style=flat&label=stars)](https://github.com/Chetan0246/nexus)
-[![Nexus license](https://img.shields.io/github/license/Chetan0246/nexus?style=flat)](https://github.com/Chetan0246/nexus)
+**Next.js · Node.js · Socket.IO · PostgreSQL · Web Crypto API**
 
-### [PrivChat](https://github.com/Chetan0246/PrivChat)
+### [PatternPilot / dsa_coach](https://github.com/Chetan0246/dsa_coach)
+Local-first Java interview practice app with a 150-problem roadmap, Socratic coaching flow, pattern drills, and spaced-repetition review.
 
-An end-to-end encrypted real-time chat application. Messages are encrypted in the browser with AES-GCM, while RSA-OAEP protects message keys and private keys remain on the client.
+**React · TypeScript · Vite · localStorage**
 
-**Next.js · Tailwind CSS · Node.js · Express · Socket.IO · PostgreSQL · Google OAuth · Web Crypto API**
+### [Gemma 4 on Radeon 780M](https://github.com/Chetan0246/gemma4-e4b--benchmark-results)
+Reproducible local-inference benchmark with evaluation prompts, raw run traces, throughput measurements, and documented failure cases.
 
-[![PrivChat stars](https://img.shields.io/github/stars/Chetan0246/PrivChat?style=flat&label=stars)](https://github.com/Chetan0246/PrivChat)
-[![PrivChat demo](https://img.shields.io/badge/Live%20demo-Open-0A66C2?style=flat)](https://real-time-chat-app-six-omega.vercel.app)
-
-### [LocalHarness](https://github.com/Chetan0246/localharness)
-
-A local hierarchical multi-agent assistant configuration designed for resource-constrained edge hardware. It combines YAML-configured agents, SQLite-backed memory, capability-floor security controls, local embeddings, and dynamic model routing across local inference providers.
-
-**Python · SQLite · llama.cpp · Gemma · sentence-transformers · YAML · Multi-Agent Systems**
-
-[![LocalHarness stars](https://img.shields.io/github/stars/Chetan0246/localharness?style=flat&label=stars)](https://github.com/Chetan0246/localharness)
-[![LocalHarness license](https://img.shields.io/github/license/Chetan0246/localharness?style=flat)](https://github.com/Chetan0246/localharness)
-
-### [Portfolio](https://github.com/Chetan0246/Portfolio)
-
-My personal portfolio website, built to present my projects, technical interests, and experience through a responsive animated interface.
-
-**React · Vite · Framer Motion · EmailJS · Vercel**
+**Gemma · llama.cpp · AMD Radeon 780M · Python**
 
 ---
 
-## GitHub Activity
+## Tools I use
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chetan0246&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Moorthy Chetan's GitHub statistics" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan0246&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" height="170" />
-</p>
+- **Languages:** Python, TypeScript, JavaScript, Java, SQL
+- **Frontend:** React, Next.js, Vite, Tailwind CSS
+- **Backend:** FastAPI, Node.js, Express, REST, WebSockets, asyncio
+- **Data:** PostgreSQL, SQLite, DynamoDB, streaming ETL
+- **Cloud:** AWS Lambda, EventBridge, CloudWatch, SNS
+- **AI:** local LLM inference, Ollama, llama.cpp, agent orchestration
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Chetan0246&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-</p>
+## Currently learning
 
-## Contribution Activity
+Distributed systems, cloud reliability, backend performance, and stronger testing practices.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chetan0246&hide_border=true&area=true&theme=github-compact" alt="GitHub contribution activity graph" />
-</p>
+## Contact
 
-## Contribution Journey
+I’m interested in software engineering internships and projects involving backend systems, cloud infrastructure, security, or applied AI.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chetan0246/Chetan0246/gh-pages/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chetan0246/Chetan0246/gh-pages/github-contribution-grid-snake.svg" />
-    <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/Chetan0246/Chetan0246/gh-pages/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-## Currently Learning
-
-- Distributed systems and event-driven architecture
-- Cloud reliability engineering and observability
-- Advanced backend performance and secure application design
-- Data structures, algorithms, and production-quality testing
-
-## Let’s Connect
-
-I’m open to conversations about software engineering, backend systems, cloud architecture, security, and interesting projects.
-
-- Portfolio: [moorthy-chetan-portfolio.vercel.app](https://moorthy-chetan-portfolio.vercel.app/)
-- GitHub: [github.com/Chetan0246](https://github.com/Chetan0246)
-- X/Twitter: [@Chetan_5118](https://x.com/Chetan_5118)
+[Portfolio](https://moorthy-chetan-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/moorthy-chetan-38a176325/) · [GitHub](https://github.com/Chetan0246)
