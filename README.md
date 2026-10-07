@@ -64,6 +64,15 @@ An end-to-end encrypted real-time chat application. Messages are encrypted in th
 [![PrivChat stars](https://img.shields.io/github/stars/Chetan0246/PrivChat?style=flat&label=stars)](https://github.com/Chetan0246/PrivChat)
 [![PrivChat demo](https://img.shields.io/badge/Live%20demo-Open-0A66C2?style=flat)](https://real-time-chat-app-six-omega.vercel.app)
 
+### [LocalHarness](https://github.com/Chetan0246/localharness)
+
+A local hierarchical multi-agent assistant configuration designed for resource-constrained edge hardware. It combines YAML-configured agents, SQLite-backed memory, capability-floor security controls, local embeddings, and dynamic model routing across local inference providers.
+
+**Python · SQLite · llama.cpp · Gemma · sentence-transformers · YAML · Multi-Agent Systems**
+
+[![LocalHarness stars](https://img.shields.io/github/stars/Chetan0246/localharness?style=flat&label=stars)](https://github.com/Chetan0246/localharness)
+[![LocalHarness license](https://img.shields.io/github/license/Chetan0246/localharness?style=flat)](https://github.com/Chetan0246/localharness)
+
 ### [Portfolio](https://github.com/Chetan0246/Portfolio)
 
 My personal portfolio website, built to present my projects, technical interests, and experience through a responsive animated interface.
